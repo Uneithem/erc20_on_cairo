@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"1lhajukmdr7t8","package_name":"starknet_test","contract_name":"BloopToken","module_path":"starknet_test::BloopToken","artifacts":{"sierra":"starknet_test_BloopToken.contract_class.json","casm":null}}]}

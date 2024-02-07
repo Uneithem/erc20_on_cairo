@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"mifq3k27eh50k","package_name":"cairo_erc20","contract_name":"ERC20_Blueprint","module_path":"cairo_erc20::erc20_blueprint::ERC20_Blueprint","artifacts":{"sierra":"cairo_erc20_ERC20_Blueprint.contract_class.json","casm":null}}]}
